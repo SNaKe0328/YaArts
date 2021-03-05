@@ -1,0 +1,9 @@
+name: YaArts
+main: YaArts.YaArts
+version: 1.0
+author: SNaKe0328
+
+commands:
+  Pixelable:
+    description: 这里是SNaKe，感谢您使用本插件，该插件为像素画生成插件(注：指令中的文件默认在C盘)
+    usage: 用法：/art {文件名}.{文件类型} {阈值控制0~255}
